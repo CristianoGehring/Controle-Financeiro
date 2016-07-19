@@ -1,0 +1,28 @@
+{
+  "name": "Controle-Financeiro",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianoGehring/Controle-Financeiro.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "CG",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/electron/electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/CristianoGehring/Controle-Financeiro#README.md",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
